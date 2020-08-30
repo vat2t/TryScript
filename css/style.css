@@ -1,0 +1,38 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.wrapper{
+    min-height: 100%;
+}
+.container{
+    max-width: 1140px;
+    width: 96%;
+    margin: 0 auto;
+}
+.left_side{
+    float: left;
+margin-right: px;
+}
+.right_side{
+float: right;
+margin-left: px;
+}
+.content{
+    position: relative;
+    overflow: hidden;
+}
+.clear{
+    clear: both;
+    height: 1px;
+}
+.subfooter{
+    height: 200px;
+}
+.footer{
+    position: relative;
+    margin-top: -200px;
+    height: 200px;
+}
