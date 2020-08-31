@@ -5,14 +5,14 @@ $('.multiple-items').slick({
     arrows: false,
     responsive: [
         {
-          breakpoint: 1124,
+          breakpoint: 768,
           settings: {
             arrows: false,
             slidesToShow: 2
           }
         },
         {
-          breakpoint: 760,
+          breakpoint: 480,
           settings: {
             arrows: false,
             slidesToShow: 1
