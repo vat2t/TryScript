@@ -15,7 +15,7 @@ $('.multiple-items').slick({
           breakpoint: 480,
           settings: {
             arrows: false,
-            slidesToShow: 1.2,
+            slidesToShow: 1.1,
           }
         }
       ]
